@@ -1,0 +1,14 @@
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\bin\Debug\net8.0\01_csharp_TEMEL_KONULAR.exe
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\bin\Debug\net8.0\01_csharp_TEMEL_KONULAR.deps.json
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\bin\Debug\net8.0\01_csharp_TEMEL_KONULAR.runtimeconfig.json
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\bin\Debug\net8.0\01_csharp_TEMEL_KONULAR.dll
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\bin\Debug\net8.0\01_csharp_TEMEL_KONULAR.pdb
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\01_csharp_TEMEL_KONULAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\01_csharp_TEMEL_KONULAR.AssemblyInfoInputs.cache
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\01_csharp_TEMEL_KONULAR.AssemblyInfo.cs
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\01_csharp_TEMEL_KONULAR.csproj.CoreCompileInputs.cache
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\01_csharp_TEMEL_KONULAR.dll
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\refint\01_csharp_TEMEL_KONULAR.dll
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\01_csharp_TEMEL_KONULAR.pdb
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\01_csharp_TEMEL_KONULAR.genruntimeconfig.cache
+C:\Users\SUDEN\source\repos\01_csharp_TEMEL_KONULAR\01_csharp_TEMEL_KONULAR\obj\Debug\net8.0\ref\01_csharp_TEMEL_KONULAR.dll
